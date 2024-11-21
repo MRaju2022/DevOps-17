@@ -2,3 +2,4 @@ Welcometo devops classes
 welcome to java classes
 welcometo python classes
 Welcome to UI classes
+Welcome to cloud classes
