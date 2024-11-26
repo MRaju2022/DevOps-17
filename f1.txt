@@ -13,9 +13,16 @@ Spring Security
 Microservices
 
 
+<<<<<<< Updated upstream
 // Task - 1002
 
 Welcome to core java
 Welcomr to Advanced Java
 Welcome to spring boot
 Welcome to Mocroservices
+=======
+// Task - 1001
+
+Welcome to Angular
+Welcome to React
+>>>>>>> Stashed changes
